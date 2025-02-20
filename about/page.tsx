@@ -1,7 +1,8 @@
+import type { NextPage } from 'next'
 import Header from "../components/Header"
 import Image from "next/image"
 
-export default function About() {
+const About: NextPage = () => {
   return (
     <div className="min-h-screen bg-white">
       <Header />
@@ -58,4 +59,6 @@ export default function About() {
     </div>
   )
 }
+
+export default About
 
