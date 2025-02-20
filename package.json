@@ -16,8 +16,9 @@
     "@netlify/plugin-nextjs": "^4.41.3"
   },
   "devDependencies": {
-    "@types/node": "latest",
-    "@types/react": "latest"
+    "@types/node": "^20.8.2",
+    "@types/react": "^18.2.24",
+    "@types/react-dom": "^18.2.8"
   },
   "funding": {
     "browserslist": "https://opencollective.com/browserslist",
