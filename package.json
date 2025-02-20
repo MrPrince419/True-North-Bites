@@ -12,10 +12,17 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "typescript": "latest"
+    "typescript": "latest",
+    "@netlify/plugin-nextjs": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest"
+  },
+  "funding": {
+    "browserslist": "https://opencollective.com/browserslist",
+    "postcss": "https://opencollective.com/postcss/",
+    "nanoid": "https://github.com/sponsors/ai",
+    "sharp": "https://opencollective.com/libvips"
   }
 }
