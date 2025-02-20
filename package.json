@@ -13,7 +13,7 @@
     "react": "latest",
     "react-dom": "latest",
     "typescript": "latest",
-    "@netlify/plugin-nextjs": "latest"
+    "@netlify/plugin-nextjs": "^4.41.3"
   },
   "devDependencies": {
     "@types/node": "latest",
