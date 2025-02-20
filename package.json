@@ -8,13 +8,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lucide-react": "^0.475.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
     "typescript": "latest"
   },
   "devDependencies": {
-    "@types/react": "latest",
-    "@types/node": "latest"
+    "@types/node": "latest",
+    "@types/react": "latest"
   }
 }
